@@ -1,0 +1,6 @@
+
+# comment
+*.bak
+*.exe
+bin/
+obj/
