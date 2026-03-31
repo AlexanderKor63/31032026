@@ -1,8 +1,9 @@
+
+
 main() {
-double num = 5;
-int a,b,c;
+  int num = 5;
 
---num;
+  //++num;
+  printf("%d num=", num);
 
-printf("%d num=", num);
 }
