@@ -1,6 +1,8 @@
 main() {
-int num = 5;
+double num = 5;
+int a,b,c;
 
-++num;
+--num;
+
 printf("%d num=", num);
 }
