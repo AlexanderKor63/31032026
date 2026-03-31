@@ -1,9 +1,10 @@
 
 
 main() {
-  int num = 5;
+  double num = 5;
+  int a,b,c;
 
   ++num;
-  printf("%d num=", num);
+  printf("%f num=", num);
 
 }
