@@ -1,3 +1,2 @@
 java
-tests for C/C++ project
-python
+tests for C/C++ pr.
